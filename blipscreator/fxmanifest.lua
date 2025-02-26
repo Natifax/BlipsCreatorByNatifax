@@ -2,7 +2,7 @@
 
 game 'gta5'
 lua54 'yes'
-author '1Natifax'
+author 'Natifax'
 description 'configuration des blips'
 version '1.0.0'
 
