@@ -20,3 +20,4 @@ Config.Blips = {
 ~n~ = Nouvelle Ligne
 ~s~ = Réinitialiser la couleur
 ~h~ = Texte en gras ####
+------POSSIBILITE DE RAJOUTER UN RADIUS APRES LE SPRITE : , radius = exemple ---> 100},
